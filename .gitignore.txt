@@ -1,0 +1,7 @@
+.DS_store
+img_mj/.DS_store
+img_rv/.DS_store
+snd_mj/.DS_store
+snd_rv/.DS_store
+obj_mj/.DS_store
+obj_rv/.DS_store
