@@ -10,14 +10,19 @@ fenómeno aislado sin impactar a otro.
 Explorar en las implicancias de la actual cultura de datos mediante el desarrollo de una serie de piezas análogas y digitales que exploren otras formas de representar señales y datos desde la subjetividad de los artistas.
 
 **Objetivos Específicos:**  
+
 1- Desarrollar 3 piezas de comunicación (imagen, sonido, objeto), una por cada artista, en base a datos de adn de cada uno, mediante herramientas análogas (microcontroladores, televisores antiguos) y digitales (lenguajes de programación, computación).
+
 2- Desarrollar una pieza final digital-análoga donde confluyen las señales de los artistas para ser emitidas por radiofrecuencia.  
+
 3- Generar una documentación impresa que de cuenta del proceso del proyecto, como muestras de trabajos anteriores que desembocan en esta experiencia, con comentarios y reflexiones de escritores invitados.
+
 4- Presentar esta experiencia en una serie de actividades como al menos una exhibición, charlas y-o talleres.
 
 
 ## Descripción de Obras
 El proyecto considera las siguientes piezas que indagan en aspectos del trabajo con datos y señales:
+
 **a- Exámenes ADN:**  
 Con metáforas como el “libro de la vida” (Kay, 1999), el ADN posee una gran carga simbólica, considerado, junto al pensamiento, como reducto de nuestra identidad. Para comprender el carácter abstracto y las posibilidades para generar las obras, se realizan exploraciones de transcodificación de los datos, pasando de un dominio a otro, ej. morse, numérico, categorial, sonido, etc.
 
@@ -40,7 +45,7 @@ Se diseñará una edición impresa documentando las investigaciones de los artis
 ## Equipo
 
 -Ricardo Vega: Artista, diseñador. Conceptualización, Programación.   
--María José Ríos: Artista, diseñador. Conceptualización, Programación.   
+-María José Ríos: Artista, diseñadora. Conceptualización, Programación.   
 –Nicolás Briceño: artista UChile. Hardware, montaje. 
 
 ## Agradecimientos:  
@@ -49,5 +54,5 @@ A los amigos Viviana Bravo Botta, Dusan Cotoras, Catalina Cortázar V., Rodrigo 
 A la Escuela de Diseño UC, Martín Tironi; Constanza Almarza; DiLabUC (Diseño en Ingeniería UC); Al IMFD (Instituto Milenio Fundamento de loa Datos)
 
 
-**Proyecto cuenta con el apoyo del FONDART 2025**
+**Proyecto cuenta con el apoyo del Fondart Nacional 2024 / Creación Artística / Interdisciplina**
 
